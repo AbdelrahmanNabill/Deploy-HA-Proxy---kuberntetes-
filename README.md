@@ -18,3 +18,5 @@ Deploying Ha-proxy web application
     - Configure specs like NodePort and same as backend Deployment .
 
 ## Screenshot of the web-application
+
+![11](https://user-images.githubusercontent.com/95745245/159781565-c6868347-3ac6-4ed4-a74d-12fe5a470b66.jpeg)
